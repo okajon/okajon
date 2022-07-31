@@ -1,6 +1,6 @@
 <a href="https://t.me/wahid_abduhakimov"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
 
-# Hi there, I'm Wahid 👋
+# Hi there, I'm okajon 👋
 
 > A software engineer building awesome web back/front stuff using .NET tech-stack at `Gluwa inc`. A proud co-founder of `Ilmhub IT School` where we educate future software engineers. A loving father to a lovely cute little daughter 👨‍🍼.
 <br/><br/><br/>
