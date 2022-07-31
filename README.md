@@ -1,4 +1,4 @@
-<a href="https://t.me/wahid_abduhakimov"><img src="34f9c20179ef29ce7b8c1f52359cf9d3-sticker.png" align="right" height="200"/></a>
+<a href="https://raw.githubusercontent.com/Nuriddin321/imgs/main/Screenshot%20from%202022-07-17%2016-34-50.jpg"><img src="Screenshot%20from%202022-07-17%2016-34-50.jpg" align="right" height="200"/></a>
 
 # Hi there, I'm okajon 👋
 
